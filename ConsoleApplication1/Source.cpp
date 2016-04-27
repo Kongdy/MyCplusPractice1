@@ -6,6 +6,10 @@ using namespace std;
 const int CURSOR_MAX_LENGTH = 10;
 const int REFER_MAX_LENGTH = 10000;
 
+/**
+	ACM 5 C++
+	@author wangk
+**/
 int main() {
 
 	int count;
