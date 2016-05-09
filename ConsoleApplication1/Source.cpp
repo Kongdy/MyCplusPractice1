@@ -10,7 +10,7 @@ const int REFER_MAX_LENGTH = 10000;
 	ACM 5 C++
 	@author wangk
 **/
-int main() {
+int main2() {
 
 	int count;
 	cin >> count;
